@@ -13,3 +13,9 @@ let's play with docker
   - [Open Source](https://www.docker.com/community/open-source)
 
 - [Docker Hub](https://hub.docker.com/)
+
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?terms=docker)
+
+  - [Introduction to Docker containers](https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/)
+
+  - [Use a Docker container as a development environment with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/)
