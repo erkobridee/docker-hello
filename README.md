@@ -1,6 +1,6 @@
 # docker-hello
 
-let's play with docker
+Learning about Docker
 
 - [Docker](https://www.docker.com/)
 
