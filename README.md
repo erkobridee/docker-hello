@@ -41,3 +41,9 @@ Learning about Docker
 - [[YouTube] How I deploy serverless containers for free | Beyond Fireship](https://www.youtube.com/watch?v=cw34KMPSt4k) (2024/03/16)
 
   - [[GitHub] codediodeio/rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial)
+
+- [[YouTube] Start Using Docker Today - Hands On Examples for Developers | Syntax](https://www.youtube.com/watch?v=RHjXPN_h1YA) (2024/03/26)
+
+  - [[GitHub] w3cj/pokemon-cacher](https://github.com/w3cj/pokemon-cacher/tree/with-docker-compose)
+
+  - [[GitHub] w3cj/backpack-debuggers](https://github.com/w3cj/backpack-debuggers/tree/with-docker)
