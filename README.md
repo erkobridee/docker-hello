@@ -20,6 +20,10 @@ Learning about Docker
 
 - [[YouTube] 100+ Docker Concepts you Need to Know | Fireship](https://www.youtube.com/watch?v=rIrNIzy6U_g) (2024/03/12)
 
+- [[YouTube Playlist] Docker Tutorials | Christian Lempa](https://www.youtube.com/playlist?list=PLj-2elZxVPZ8k8z6a2q6-J79Y-9BUQllW)
+
+  - [[YouTube] Learning Docker // Build Container Images | Christian Lempa](https://www.youtube.com/watch?v=JDw3ZdQcv2g) (2023/12/19)
+
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?terms=docker)
 
   - [Introduction to Docker containers](https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/)
