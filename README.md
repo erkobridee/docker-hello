@@ -66,3 +66,9 @@ Learning about Docker
 - [[GitHub] nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js 🐳 🐢 🚀 ( [Docker Hub](https://hub.docker.com/_/node/) )
 
 - [[GitHub] ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. ( [Docker Hub](https://hub.docker.com/r/ollama/ollama) )
+
+
+## How to
+
+- [How to build and push a Docker image using GitHub actions | Andreas Karabetian Blog](https://blog.karabetian.dev/how-to-build-and-push-a-docker-image-using-github-actions) (2022/09/08)
+
